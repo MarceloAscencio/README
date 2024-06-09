@@ -17,4 +17,4 @@ O sistema permite cadastrar, consultar, atualizar e excluir clientes.
 
 # Tecnologias Utilizadas
 
-- HTML, CSS, JavaScript, mySQL
+- HTML, CSS, JavaScript, Localstorage, JSON
